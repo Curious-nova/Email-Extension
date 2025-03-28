@@ -7,14 +7,14 @@ The Email Reply Generator is an innovative AI-powered tool designed to streamlin
 ## Project Screenshots
 
 <!-- Placeholder for project screenshots -->
-![Main Interface](/images/main-interface.png)
+![Main Interface](/images/websiteImage1.png)
 *Main Application Interface*
 
-![Browser Extension](/images/browser-extension.png)
-*Browser Extension in Action*
+![Browser Extension](/images/websiteGeneratedReply.png)
+*Generated Reply*
 
-![AI Reply Generation](/images/ai-reply-generation.png)
-*AI-Generated Email Reply*
+![AI Reply Generation](/images/EmailExtensionButton.png)
+*Extension Button*
 
 ## Key Features
 
