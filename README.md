@@ -76,12 +76,4 @@ Load the extension in your browser:
 5. Edit or send the response as needed
 
 
-
-
-
-
-## Contact
-
-Your Name - [your.email@example.com]
-
-Project Link: [https://github.com/yourusername/email-reply-generator](https://github.com/yourusername/email-reply-generator)
+## Project Link: [https://github.com/yourusername/email-reply-generator](https://github.com/yourusername/email-reply-generator)
