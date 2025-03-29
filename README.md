@@ -74,6 +74,3 @@ Load the extension in your browser:
 3. Click the "AI Reply" button
 4. Review the AI-generated suggested reply
 5. Edit or send the response as needed
-
-
-## Project Link: [https://github.com/yourusername/email-reply-generator](https://github.com/yourusername/email-reply-generator)
