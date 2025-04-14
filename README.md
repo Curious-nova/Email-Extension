@@ -39,7 +39,7 @@ Before installation, ensure you have the following installed:
 
 ### Backend Setup
 
-###IntelliJ IDEA Setup
+##IntelliJ IDEA Setup
 1. Open the project in IntelliJ IDEA
 2. Navigate to Run > Edit Configurations
 3. Set the following environment variables:
